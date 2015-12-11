@@ -1,15 +1,5 @@
-# How We Have Been Saving The Planet This Week
-[howwehavebeensavingtheplanetthisweek.com](howwehavebeensavingtheplanetthisweek.com)
+Welcome to the How We Have Been Saving The Planet This Week repository!
 
-How We Have Been Saving The Planet This Week is a weekly newsletter covering all the awesome things humanity is doing that is making our place on this planet better.
-
-Every newsletter contains the following:
-- 2-5 awesome things that were happening this week
-- An awesome gif
-
-## Format
-The format is like this:
-
-## Updating the website
-
-Anything in the `gh-pages` branch is published on the website.
+- To learn more about the project: [index](index.md)
+- To find out how to contribute: [contribute](contribute.md)
+- To find out more about the format of every newsletter: [format](format.md)
