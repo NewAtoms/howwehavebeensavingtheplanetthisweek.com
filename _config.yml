@@ -1,3 +1,5 @@
+url: "http://howwehavebeensavingtheplanetthisweek.com"
+
 # Prose.io configuration
 prose:
   siteurl: "http://howwehavebeensavingtheplanetthisweek.com"
@@ -14,10 +16,25 @@ prose:
           label: "Emoji Teaser"
 
 # Jekyll configuration
-baseurl: http://howwehavebeensavingtheplanetthisweek.com
+baseurl: /
 defaults:
   -
     scope:
       path: "newsletters"
     values:
       layout: "newsletter"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "markdown"
+exclude: ["CNAME", "readme.md", "README.md"]
+
+# GitHub Pages configuration
+gems:
+- jemoji
+- jekyll-redirect-from
+- jekyll-mentions
+
+jekyll-mentions:
+  base_url: https://twitter.com
