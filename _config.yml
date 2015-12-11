@@ -1,0 +1,21 @@
+# Prose.io configuration
+siteurl: "http://howwehavebeensavingtheplanetthisweek.com"
+media: "media"
+metadata:
+  newsletters:
+    - name: "subject"
+      field:
+        element: "text"
+        label: "Subject Line"
+    - name: "teaser"
+      field:
+        element: "text"
+        label: "Emoji Teaser"
+
+# Jekyll configuration
+defaults:
+  -
+    scope:
+      path: "newsletters"
+    values:
+      layout: "newsletter"
