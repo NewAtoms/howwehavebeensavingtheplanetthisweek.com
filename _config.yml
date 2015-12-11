@@ -1,0 +1,40 @@
+url: "http://howwehavebeensavingtheplanetthisweek.com"
+
+# Prose.io configuration
+prose:
+  siteurl: "http://howwehavebeensavingtheplanetthisweek.com"
+  media: "media"
+  metadata:
+    newsletters:
+      - name: "subject"
+        field:
+          element: "text"
+          label: "Subject Line"
+      - name: "teaser"
+        field:
+          element: "text"
+          label: "Emoji Teaser"
+
+# Jekyll configuration
+baseurl: /
+defaults:
+  -
+    scope:
+      path: "newsletters"
+    values:
+      layout: "newsletter"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "markdown"
+exclude: ["CNAME", "readme.md", "README.md"]
+
+# GitHub Pages configuration
+gems:
+- jemoji
+- jekyll-redirect-from
+- jekyll-mentions
+
+jekyll-mentions:
+  base_url: https://twitter.com

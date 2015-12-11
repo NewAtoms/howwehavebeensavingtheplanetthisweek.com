@@ -1,7 +1,5 @@
-# howwehavebeensavingtheplanetthisweek.com
+Welcome to the How We Have Been Saving The Planet This Week repository!
 
-_Maybe the longest repo name on GitHub_
-
-## Deploy
-
-Anything in the `gh-pages` branch is published on the website.
+- To learn more about the project: [index](index.md)
+- To find out how to contribute: [contribute](contribute.md)
+- To find out more about the format of every newsletter: [format](format.md)
