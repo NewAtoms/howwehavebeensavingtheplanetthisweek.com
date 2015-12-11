@@ -7,8 +7,6 @@ Every newsletter contains the following:
 - 2-5 awesome things that were happening this week
 - An awesome gif
 
-## Mission and vision
-
 ## Format
 The format is like this:
 
