@@ -9,6 +9,8 @@ Every newsletter contains the following:
 
 ## Mission and vision
 
+‘We not only believe, we know, that we’re headed for a positive future. And by telling as much people as possible about it, creating a more sustainable relationship with our planet and each other. So we’ll do more of that we’ve been doing. Every week.’
+
 ## Format
 The format is like this:
 
