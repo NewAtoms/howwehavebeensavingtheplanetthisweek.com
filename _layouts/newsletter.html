@@ -692,6 +692,7 @@ body {
   padding: 0 24px;
 }
 .header .header-contents img {
+  width: 230px;
   margin-left: -130px;
   margin-bottom: -130px;
   background-color: transparent;
@@ -702,6 +703,32 @@ body {
   font-size: 48px;
   border-bottom: none;
   text-shadow: 1px 1px 1px black;
+}
+@media only screen and (min-width:480px) and (max-width:660px){
+  .header .header-contents img {
+    width: 172px;
+    margin-left: -97px;
+    margin-bottom: -97px;
+    background-color: transparent;
+  }
+  .header .header-contents h1 {
+    margin-left: 90px;
+    padding-bottom: 36px;
+    font-size: 36px;
+  }
+}
+@media only screen and (max-width:480px){
+  .header .header-contents img {
+    width: 115px;
+    margin-left: -65px;
+    margin-bottom: -65px;
+    background-color: transparent;
+  }
+  .header .header-contents h1 {
+    margin-left: 60px;
+    padding-bottom: 24px;
+    font-size: 24px;
+  }
 }
 
 .pre-header, .contents {
