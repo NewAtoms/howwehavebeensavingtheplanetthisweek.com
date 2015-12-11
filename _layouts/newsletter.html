@@ -1,64 +1,7 @@
 <body>
-  <div class="newsletter">
-    <div class="pre-header">
-      <div class="teaser">
-        {{ page.teaser }}
-      </div>
-      <div class="view-online">
-        <a href="{{ site.url }}{{ page.url }}">View in the Browser</a>
-      </div>
-    </div>
-
-    <div class="header">
-      <div class="header-contents">
-        <img src="http://www.howwehavebeensavingtheplanetthisweek.com/assets/logo.png">
-        <h1>How We Have Been Saving The Planet This Week</h1>
-      </div>
-    </div>
-
-    <div class="markdown-body">
-      {{ content }}
-    </div>
-  </div>
-</body>
+<meta charset="utf-8">
 
 <style>
-
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-.header {
-  background-color: #A76270;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-attachment: top;
-  margin: 0;
-  padding: 0;
-  color: white;
-}
-.header-contents {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 0 24px;
-}
-.header-contents img {
-  margin-left: -130px;
-  margin-bottom: -130px;
-}
-.header-contents h1 {
-  margin-left: 120px;
-  padding-bottom: 24px;
-  font-size: 38px;
-}
-
-.pre-header, .markdown-body {
-  max-width: 600px;
-  margin: auto;
-}
-
 .markdown-body {
 -webkit-text-size-adjust: 100%;
 text-size-adjust: 100%;
@@ -711,4 +654,85 @@ position: relative;
 border-color: #4078c0;
 }
 
+
+
+
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.pre-header > div {
+  margin: 8px 0;
+  display: inline-block;
+}
+.pre-header .teaser {
+  float: left;
+}
+.pre-header .view-online {
+  float: right;
+  font-size: 75%;
+}
+
+.header {
+  clear: both;
+  background-color: #ddd;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: top;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.header .header-contents {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.header .header-contents img {
+  margin-left: -130px;
+  margin-bottom: -130px;
+  background-color: transparent;
+}
+.header .header-contents h1 {
+  margin-left: 120px;
+  padding-bottom: 24px;
+  font-size: 48px;
+  border-bottom: none;
+  text-shadow: 1px 1px 1px black;
+}
+
+.pre-header, .contents {
+  max-width: 600px;
+  margin: auto;
+  padding: 8px;
+}
+.contents {
+  margin-bottom: 24px;
+}
 </style>
+
+  <div class="newsletter markdown-body">
+    <div class="pre-header">
+      <div class="teaser">
+        {{ page.teaser }}
+      </div>
+      <div class="view-online">
+        <a href="{{ site.url }}{{ page.url }}">Online version</a>
+      </div>
+    </div>
+
+    <div class="header" style="background-image:url({{ page.background }})">
+      <div class="header-contents">
+        <img src="http://www.howwehavebeensavingtheplanetthisweek.com/assets/logo.png">
+        <h1>How We Have Been Saving The Planet This Week</h1>
+      </div>
+    </div>
+
+    <div class="contents">
+      {{ content }}
+    </div>
+  </div>
+</body>
