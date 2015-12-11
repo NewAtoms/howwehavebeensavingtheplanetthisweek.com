@@ -1,3 +1,5 @@
+url: "http://howwehavebeensavingtheplanetthisweek.com"
+
 # Prose.io configuration
 prose:
   siteurl: "http://howwehavebeensavingtheplanetthisweek.com"
@@ -20,13 +22,13 @@ defaults:
     scope:
       path: "newsletters"
     values:
-      layout: "markdown"
+      layout: "newsletter"
   -
     scope:
       path: ""
     values:
       layout: "markdown"
-exclude: ["CNAME", "readme.md"]
+exclude: ["CNAME", "readme.md", "README.md"]
 
 # GitHub Pages configuration
 gems:
