@@ -679,7 +679,9 @@ body {
 .header {
   clear: both;
   background-color: #ddd;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 100%;
   background-size: cover;
   background-attachment: top;
   margin: 0;
@@ -690,19 +692,17 @@ body {
   color: white;
 }
 .header .header-contents {
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 24px;
 }
 .header .header-contents img {
+  display: inline-block;
   width: 230px;
-  margin-left: -130px;
-  margin-bottom: -130px;
   background-color: transparent;
 }
 .header .header-contents h1 {
-  margin-left: 120px;
-  padding-bottom: 24px;
+  display: inline-block;
   font-size: 48px;
   border-bottom: none;
   text-shadow: 1px 1px 1px black;
@@ -710,26 +710,19 @@ body {
 @media only screen and (min-width:480px) and (max-width:660px){
   .header .header-contents img {
     width: 172px;
-    margin-left: -97px;
-    margin-bottom: -97px;
     background-color: transparent;
   }
   .header .header-contents h1 {
-    margin-left: 90px;
-    padding-bottom: 36px;
+
     font-size: 36px;
   }
 }
 @media only screen and (max-width:480px){
   .header .header-contents img {
     width: 115px;
-    margin-left: -65px;
-    margin-bottom: -65px;
     background-color: transparent;
   }
   .header .header-contents h1 {
-    margin-left: 60px;
-    padding-bottom: 24px;
     font-size: 24px;
   }
 }
