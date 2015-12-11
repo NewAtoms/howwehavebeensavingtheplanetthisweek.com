@@ -686,6 +686,9 @@ body {
   padding: 0;
   color: white;
 }
+.header a, .header a:link, .header a:visited {
+  color: white;
+}
 .header .header-contents {
   max-width: 600px;
   margin: 0 auto;
@@ -753,8 +756,10 @@ body {
 
     <div class="header" style="background-image:url({{ page.background }})">
       <div class="header-contents">
-        <img src="http://www.howwehavebeensavingtheplanetthisweek.com/assets/logo.png">
-        <h1>How We Have Been Saving The Planet This Week</h1>
+        <a href="http://www.howwehavebeensavingtheplanetthisweek.com/">
+          <img src="http://www.howwehavebeensavingtheplanetthisweek.com/brand-assets/logo.png">
+          <h1>How We Have Been Saving The Planet This Week</h1>
+        </a>
       </div>
     </div>
 
