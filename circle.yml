@@ -1,6 +1,10 @@
+# This file tells the testing machine how to test the branch for errors
+
 machine:
   timezone:
     UTC
+  ruby:
+    version: 2.2.3
 
 general:
   branches:
