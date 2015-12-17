@@ -1,4 +1,4 @@
-url: "http://howwehavebeensavingtheplanetthisweek.com"
+baseurl: "http://howwehavebeensavingtheplanetthisweek.com/"
 
 # Prose.io configuration
 prose:
@@ -16,7 +16,6 @@ prose:
           label: "Emoji Teaser"
 
 # Jekyll configuration
-baseurl: /
 defaults:
   -
     scope:
@@ -28,7 +27,7 @@ defaults:
       path: ""
     values:
       layout: "markdown"
-exclude: ["CNAME", "readme.md", "README.md"]
+exclude: ["CNAME", "readme.md", "README.md","Gemfile","Gemfile.lock","circle.yml","vendor"]
 
 # GitHub Pages configuration
 gems:
