@@ -1,8 +1,8 @@
-baseurl: "http://howwehavebeensavingtheplanetthisweek.com/"
+baseurl: "http://www.howwehavebeensavingtheplanetthisweek.com/"
 
 # Prose.io configuration
 prose:
-  siteurl: "http://howwehavebeensavingtheplanetthisweek.com"
+  siteurl: "http://www.howwehavebeensavingtheplanetthisweek.com"
   media: "media"
   metadata:
     newsletters:
