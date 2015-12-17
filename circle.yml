@@ -1,0 +1,22 @@
+machine:
+  timezone:
+    UTC
+
+general:
+  branches:
+    ignore:
+      - gh-pages
+  artifacts:
+    - "./_site"
+
+dependencies:
+  pre:
+    - bundle install
+
+test:
+  override:
+    - BASEURL=https://circle-artifacts.com/gh/$CIRCLE_USERNAME/hwhbstptw/$CIRCLE_PREVIOUS_BUILD_NUM/artifacts/0/home/ubuntu/hwhbstptw/_site/
+    - echo $BASEURL
+    - sed -i "s,/nipy-jekyll/,$BASEURL,g" "_config.yml"
+    - sed -i "s,/page:num/,$BASEURLpage:num/,g" "_config.yml"
+    - bundle exec jekyll build
