@@ -8,6 +8,7 @@ Overview in Dutch: http://www.vvoj.nl/kenniscentrum/financiering-journalistieke-
 de opzet en doelstelling van uw onderzoek aan. Het bureau van het fonds neemt vervolgens contact met u op
 om het project te bespreken. Het indienen van een projectvoorstel levert u een betere definitieve
 aanvraag op."
+[They funded a podcast](https://www.svdj.nl/projects/codex/)
 
 [Alert fonds](http://www.alertfonds.nl/themas/Milieu_en_Duurzaamheid)
 • Vooral voor jongeren
