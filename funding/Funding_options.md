@@ -22,6 +22,7 @@ aanvraag op."
 [Yournalism](http://yournalism.nl/)
 
 [Journalism grants](http://journalismgrants.org/about/)
+- Next round March 2016
 "...to perform thorough research and to develop new, exciting, and even experimental reporting, employing state of the art presentation methods and techniques of journalistic storytelling."
 "Seeing that we are looking to support projects of great impact and high visibility, applicants must apply for a minimum grant of €8,000. For your reference, we expect the average grant given to be about €18,000"
 "The grant programme does NOT fund: salaries of permanent staff; indirect costs (overheads); expenses for the compilation and processing of data collections that are not eventually released into the public domain;"
