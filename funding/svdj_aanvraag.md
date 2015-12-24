@@ -1,21 +1,22 @@
-##Projecttitel
-How we've been saving the planet this week
+## Projecttitel
 
-##Beschrijf kort de aanleiding van het voorgenomen onderzoek
+How we have been saving the planet this week
+
+## Beschrijf kort de aanleiding van het voorgenomen onderzoek
+
 De strijd tegen de opwarming van de aarde wordt vaak met een futalistiche invalshoek beschreven. Hierdoor hebben lezers een pessimistische en passieve insteek ontwikkeld en laten ze artikelen over het klimaatprobleem zelfs vaak links liggen. "Ik kan er toch niets aan doen en we zien wel wat er gaat gebeuren"
 
-##Beschrijf kort de doelstelling, aard en opzet van het voorgenomen onderzoek
-Dit project wil laten zien dat, ondanks dat het een serieus probleem is, er ook veel (techonoligische) vooruitgangen worden geboekt. Door mensen voor deze vooruitgangen te enthousiastmeren zal er weer meer, op een constructieve manier, over het probleem gesproken worden.
-Wekelijks wordt er in de diepte naar een bepaald project gekeken. Daarnaast worden er samenvattingen gegeven van artikelen welke die week op digitale media zijn verschenen.
-Gedacht kan worden aan interviews, vergelijkend onderzoek, uitleg van een systeem, geschiedenis van innovatie in een bepaalde tak, etc.
-Er zal ook regelmatig een update gegeven worden over de stand van zaken van onderwerpen waarnaar eerder diepgaand is gegkeken.
+## Beschrijf kort de doelstelling, aard en opzet van het voorgenomen onderzoek
 
-##Financieel
+Dit project wil in de vorm van een wekelijkse nieuwsbrief laten zien dat, ondanks dat klimaat verandering een serieus probleem is, er ook veel (technologische) vooruitgangen worden geboekt. Door mensen voor deze vooruitgangen te enthousiastmeren zal er weer meer, op een constructieve manier, over het probleem gesproken worden. Gedacht kan worden aan interviews, vergelijkend onderzoek, uitleg van een technologie, geschiedenis van innovatie in een bepaalde tak, etc. Wekelijks wordt er in de diepte naar een bepaald project gekeken. Daarnaast worden er samenvattingen gegeven van artikelen welke die week op digitale media zijn verschenen. Er zal ook regelmatig een update gegeven worden over de stand van zaken van onderwerpen waarnaar eerder diepgaand is gegkeken.
+
+## Financieel
+
 Bedrag totaal benodigd  10000
 Bedrag gevraagd  5000
 Eigen bijdrage 5000 (vooral in arbeidsuren)
 
-##Motiveer hieronder hoe uw onderzoek past binnen de doelstelling van het Stimuleringsfonds. Geef daarnaast aan wat de startdatum en  de einddatum van het onderzoek is.
+## Motiveer hieronder hoe uw onderzoek past binnen de doelstelling van het Stimuleringsfonds. Geef daarnaast aan wat de startdatum en  de einddatum van het onderzoek is.
 *Doelstelling: Het Stimuleringsfonds voor de Pers heeft ten doel het handhaven en bevorderen van de pluriformiteit van de pers, voor zover die van belang is voor de informatie en opinievorming.*
 
 Beschrijf hoe de probleemstelling van uw onderzoek past binnen de doelstelling van het Stimuleringsfonds voor de Pers.	   	
