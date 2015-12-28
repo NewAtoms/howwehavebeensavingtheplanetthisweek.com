@@ -12,6 +12,8 @@ Dit project wil in de vorm van een wekelijkse nieuwsbrief laten zien dat, ondank
 
 Wekelijks wordt er in de diepte naar een bepaald project gekeken. Daarnaast worden er samenvattingen gegeven van artikelen welke die week op digitale media zijn verschenen. Er zal ook regelmatig een update gegeven worden over de stand van zaken van onderwerpen die eerder behandeld zijn.
 
+De huidige nieuwsbrief is op een internationaal publiek gericht met Engels als taal. Dit kan natuurlijk ook in het Nederlands geschreven worden voor de Nederlandse markt. 
+
 ## Financieel
 
 Bedrag totaal benodigd  €11040
@@ -28,7 +30,7 @@ Negatieve invalshoeken van huidige berichtgeving over klimaatverandering en de o
 
 ### Geef aan waarom uw onderzoek bijdraagt aan de versterking/vernieuwing van de Nederlandse journalistieke infrastructuur of de pluriformiteit van de pers ten goede komt.	   	
 
-Dit project benadert dit belangrijke maatschappelijke onderwerp vanuit een onderbelichte invalshoekhoek. De huidige invalshoek is schadelijk voor de samenleving gezien zij zelden constructief is. Door mensen anders te laten kijken naar een probleem verandert het probleem ook. Journalistiek over een maatschappelijk probleem heeft volgens ons baat bij diverse invalshoeken waarvan de positieve kant nog erg weinig het podium krijgt. 
+Dit project benadert dit belangrijke maatschappelijke onderwerp vanuit een onderbelichte invalshoekhoek. De huidige invalshoek is schadelijk voor de samenleving gezien zij zelden constructief is. Door mensen anders te laten kijken naar een probleem verandert het probleem ook. Journalistiek over een maatschappelijk probleem heeft volgens ons baat bij diverse invalshoeken waarvan de positieve kant nog erg weinig het podium krijgt.
 
 Projectdata
 Datum start onderzoek (01-02-2016)	   	
