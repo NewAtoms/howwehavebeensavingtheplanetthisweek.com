@@ -6,4 +6,4 @@ Tot op heden geven wij lezers een overzicht van goede externe journalistieke stu
 
 Samen met campagne strategie organisatie 'Lot's of people' zijn wij op dit moment bezig een strategie te ontwikkelen voor het uitbreiden van het abonee-bestand.
 
-De kosten van het maken van de journalistieke inhoud zijn €12080 in 2016. Wij proberen dit bedrag uit zowel subsidiele en commerciele bronnen te putten. Daarnaast levert Content.supply, onderdeel van New Atoms BV., intern bij aan de productie van de nieuwsbrief.
+De kosten van het maken van de journalistieke inhoud zijn €12080 in 2016. Wij proberen dit bedrag uit zowel subsidiele en commerciele bronnen te putten. Daarnaast levert content.supply, onderdeel van New Atoms BV., intern bij aan de productie van de nieuwsbrief.
