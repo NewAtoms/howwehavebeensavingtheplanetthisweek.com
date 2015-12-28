@@ -1,4 +1,4 @@
 # Github test
 
 Ik fietste eens langs
-Ik zag een grote beer
+Ik zag een beer
