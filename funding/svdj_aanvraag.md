@@ -8,7 +8,7 @@ De strijd tegen de opwarming van de aarde wordt vaak met een futalistiche invals
 
 ## Beschrijf kort de doelstelling, aard en opzet van het voorgenomen onderzoek
 
-Dit project wil in de vorm van een wekelijkse nieuwsbrief laten zien dat, ondanks dat klimaat verandering een serieus probleem is, er ook veel (duurzame, technologische) vooruitgangen worden geboekt. Door mensen voor deze vooruitgangen te enthousiastmeren zal er weer meer, op een constructieve manier, over het probleem gesproken worden. Gedacht kan worden aan interviews, vergelijkend onderzoek, uitleg van een technologie, geschiedenis van innovatie in een bepaalde tak, etc.
+Dit project wil in de vorm van een wekelijkse nieuwsbrief laten zien dat, ondanks dat klimaat verandering een serieus probleem is, er ook veel (duurzame, technologische) vooruitgangen worden geboekt. Door mensen op een leuke, informele en toegankelijke manier voor deze vooruitgangen te enthousiastmeren zal er weer meer, op een constructieve manier, over het probleem gesproken worden. Gedacht kan worden aan interviews, vergelijkend onderzoek, uitleg van een technologie, geschiedenis van innovatie in een bepaalde sector, etc.
 
 Wekelijks wordt er in de diepte naar een bepaald project gekeken. Daarnaast worden er samenvattingen gegeven van artikelen welke die week op digitale media zijn verschenen. Er zal ook regelmatig een update gegeven worden over de stand van zaken van onderwerpen die eerder behandeld zijn.
 
@@ -28,7 +28,7 @@ Negatieve invalshoeken van huidige berichtgeving over klimaatverandering en de o
 
 ### Geef aan waarom uw onderzoek bijdraagt aan de versterking/vernieuwing van de Nederlandse journalistieke infrastructuur of de pluriformiteit van de pers ten goede komt.	   	
 
-Dit project benadert dit belangrijke maatschappelijke onderwerp vanuit een onderbelichte invalshoekhoek. De huidige invalshoek is schadelijk voor de samenleving gezien zij niet constructief is. Door mensen anders te laten kijken naar een probleem verandert het probleem ook.
+Dit project benadert dit belangrijke maatschappelijke onderwerp vanuit een onderbelichte invalshoekhoek. De huidige invalshoek is schadelijk voor de samenleving gezien zij zelden constructief is. Door mensen anders te laten kijken naar een probleem verandert het probleem ook. Journalistiek over een maatschappelijk probleem heeft volgens ons baat bij diverse invalshoeken waarvan de positieve kant nog erg weinig het podium krijgt. 
 
 Projectdata
 Datum start onderzoek (01-02-2016)	   	
