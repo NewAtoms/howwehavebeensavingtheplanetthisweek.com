@@ -7,7 +7,7 @@ layout: default
 
 Tired of getting apocalyptic news about climate change? Do you feel powerless and depressed about the future of the planet? Ready to turn your pessimistic future views a 180 degrees? You're now at the right spot:
 
-How We Have Been Saving The Planet This Week 🌏👊.
+[How We Have Been Saving The Planet This Week 🌏👊](http://www.howwehavebeensavingtheplanetthisweek.com/)
 
 A positive and exciting newsletter about all the awesome things we —mankind— do every week to improve our joint environment, the planet.
 
@@ -18,3 +18,5 @@ Every week we find the coolest articles and make a short explanatory paragraph a
 While making this newsletter with a lot of love and energy we hope to inspire people to be more active in the realistic and constructible future of our planet. It worked for us so why wouldn't it work for you?
 
 Fucking Awesome Things, Every Week.
+
+
