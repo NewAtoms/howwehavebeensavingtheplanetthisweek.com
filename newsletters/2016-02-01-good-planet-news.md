@@ -6,7 +6,7 @@
 
 * More and more countries preserve their waters. This year, ocean of [the size of Texas](http://bit.ly/1Tvi7bd) was preserved!
 
-* 2015 was also the beginning of the end of the car. More and more car companies are going electric, even new brands emerged. [Increasing number](http://www.bikeleague.org/commutingdata) of people riding their bikes 🚲. Young people decrease their car interest and make different choices when it comes to 'buying their freedom'.
+* 2015 was also the beginning of the end of the car. More and more car companies are going electric and new brands emerged. [An increasing number](http://www.bikeleague.org/commutingdata) of people cycle🚲 to work. Young people decrease their car interest and make different choices when it comes to 'buying their freedom'.
 
 * The renewable energy economy is growing faster than hummingbirds can flap their wings and the prices of clean energy are dropping like Skrillex drops his bass 💥.
 
