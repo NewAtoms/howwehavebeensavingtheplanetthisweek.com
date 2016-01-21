@@ -14,7 +14,6 @@ This very awesome week:
 * Teasing subject 1
 * Teasing subject 2
 * Teasing subject 3
-* Teasing subject 4
 
 ---
 
@@ -48,15 +47,6 @@ Read more on [website](url)
 
 ---
 
-[![image name](path)](url)
-
-# [Title](url)
-
-Text...
-
-Read more on [website](url)
-
----
 
 ![Gif](path)
 
