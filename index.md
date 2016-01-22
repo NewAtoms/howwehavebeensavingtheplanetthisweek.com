@@ -11,7 +11,7 @@ Tired of getting apocalyptic news about climate change? Do you feel powerless an
 
 A positive and exciting newsletter about all the awesome things we —mankind— do every week to improve our environment.
 
-Every week we find the coolest articles and make a short explanatory paragraph about why this is so awesome. We do this with an accessible, and perhaps sometimes, nerdy way of informal storytelling. Like we would share the news to our friends in the pub, when we try to convince them to hop on our train to a cleaner future.
+Every week we find the coolest articles and make a short explanatory paragraph about what awesomeness it is about. We do this with an accessible, and perhaps sometimes, nerdy way of informal storytelling. Like we would share the news to our friends in the pub, when we try to convince them to hop on our train to a cleaner future.
 
 While making this newsletter with a lot of love and energy we hope to inspire people to be more active in the realistic and constructible future of our planet. It worked for us so why wouldn't it work for you?
 
