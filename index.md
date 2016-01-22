@@ -9,7 +9,7 @@ Tired of getting apocalyptic news about climate change? Do you feel powerless an
 
 [How We Have Been Saving The Planet This Week 🌏👊](http://www.howwehavebeensavingtheplanetthisweek.com/)
 
-A positive and exciting newsletter about all the awesome things we —mankind— do every week to improve our joint environment, the planet.
+A positive and exciting newsletter about all the awesome things we —mankind— do every week to improve our environment.
 
 We see that renewable energy solutions is growing rapidly because of economic benefits. We read about electric airplanes, smart solutions for robotic agriculture, wind and solar farms in well known conservative states and much more technological awesomeness.
 
