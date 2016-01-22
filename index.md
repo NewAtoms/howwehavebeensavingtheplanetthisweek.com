@@ -11,8 +11,6 @@ Tired of getting apocalyptic news about climate change? Do you feel powerless an
 
 A positive and exciting newsletter about all the awesome things we —mankind— do every week to improve our environment.
 
-We see that renewable energy solutions is growing rapidly because of economic benefits. We read about electric airplanes, smart solutions for robotic agriculture, wind and solar farms in well known conservative states and much more technological awesomeness.
-
 Every week we find the coolest articles and make a short explanatory paragraph about why this is so awesome. We do this with an accessible, and perhaps sometimes, nerdy way of informal storytelling. Like we would share the news to our friends in the pub, when we try to convince them to hop on our train to a cleaner future.
 
 While making this newsletter with a lot of love and energy we hope to inspire people to be more active in the realistic and constructible future of our planet. It worked for us so why wouldn't it work for you?
