@@ -13,6 +13,4 @@ A positive and exciting newsletter about all the awesome things we —mankind—
 
 Every week we find the coolest articles and make a short explanatory paragraph about what awesomeness it is about. We do this with an accessible, and perhaps sometimes, nerdy way of informal storytelling. Like we would to our friends in the pub, when we try to convince them that ant poop inspired a new type of fuel.
 
-While making this newsletter with a lot of love and energy we hope to inspire people to be more active in the realistic and constructible future of our planet. It worked for us so why wouldn't it work for you?
-
 Fucking Awesome Things, Every Week.
