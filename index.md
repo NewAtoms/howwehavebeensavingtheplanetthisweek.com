@@ -18,5 +18,3 @@ Every week we find the coolest articles and make a short explanatory paragraph a
 While making this newsletter with a lot of love and energy we hope to inspire people to be more active in the realistic and constructible future of our planet. It worked for us so why wouldn't it work for you?
 
 Fucking Awesome Things, Every Week.
-
-
