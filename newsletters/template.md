@@ -14,11 +14,10 @@ This very awesome week:
 * Teasing subject 1
 * Teasing subject 2
 * Teasing subject 3
-* Teasing subject 4
 
 ---
 
-[![image name](path)](url)
+[<img src="path" width="565"/>](url)
 
 # [Title](url)
 
@@ -28,7 +27,7 @@ Read more on [website](url)
 
 ---
 
-[![image name](path)](url)
+[<img src="path" width="565"/>](url)
 
 # [Title](url)
 
@@ -38,17 +37,7 @@ Read more on [website](url)
 
 ---
 
-[![image name](path)](url)
-
-# [Title](url)
-
-Text...
-
-Read more on [website](url)
-
----
-
-[![image name](path)](url)
+[<img src="path" width="565"/>](url)
 
 # [Title](url)
 
