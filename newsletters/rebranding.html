@@ -13,17 +13,17 @@
             url("DroidSerif.woff") format("woff"),
             url("DroidSerif.ttf")  format("truetype"),
             url("DroidSerif.svg#5d364ce9e566edaca137d4e0c9262156") format("svg");
-            font-style:   normal;
-            font-weight:  400;
+            font-style: normal;
+            font-weight: 400;
         }
 
         @font-face {
             font-family: "Droid Serif";
-            src: url("DroidSerif.eot");
-            src: url("DroidSerif.eot?#iefix") format("embedded-opentype"),
-            url("DroidSerif.woff") format("woff"),
-            url("DroidSerif.ttf")  format("truetype"),
-            url("DroidSerif.svg#5d364ce9e566edaca137d4e0c9262156") format("svg");
+            src: url("DroidSerif-Bold.eot");
+            src: url("DroidSerif-Bold.eot?#iefix") format("embedded-opentype"),
+            url("DroidSerif-Bold.woff") format("woff"),
+            url("DroidSerif-Bold.ttf")  format("truetype"),
+            url("DroidSerif-Bold.svg#5d364ce9e566edaca137d4e0c9262156") format("svg");
             font-style: normal;
             font-weight: 700;
         }
@@ -48,6 +48,7 @@
             font-size: 52px;
             line-height: 1;
             text-transform: uppercase;
+            margin: 9px 0;
         }
 
         h2 {
@@ -73,17 +74,26 @@
             padding: 0 10px;
             box-sizing: border-box;
         }
-
+        header {
+            font-family: 'Droid Serif';
+            font-size: 16px;
+            line-height: 1.5;
+        }
         article {
             text-align: left;
             font-family: 'Droid Serif';
-            font-size: 16px;
+            font-size: 18px;
             line-height: 1.5;
         }
 
         article a {
             font-weight: 700;
             color: inherit;
+        }
+
+        article strong {
+            font-weight: 700;
+            font-family: 'Droid Serif';
         }
 
         article a:hover, article a.more:hover {
@@ -132,7 +142,11 @@
                 <figure id="logo" src="logo_2x.png" alt="">
                     
                 </figure>
-                <h1>Saving the planet with self-driving 🚕's, why not?</h1>
+                <header>
+                    <p>This very awesome week:</p>
+                    <h1>Saving the planet with self-driving 🚕's, why not?</h1>
+                    <p>And more...</p>
+                </header>
             </td>
         </tr>
     </table>
@@ -143,13 +157,13 @@
                 <article>                
                     <h2><a href="http://www.theguardian.com/technology/2016/feb/09/google-computers-self-driving-cars-human">Google's car computer fits the legal definition of a human 😱!</a></h2>
                     <p>
-                    "The National Highway Transportation Safety Administration (NHTSA) has ruled that the software behind some automated cars should be considered the driver."
+                    <strong>"The National Highway Transportation Safety Administration (NHTSA)</strong> has ruled that the software behind some automated cars should be considered the driver."
                     </p>
                     <p>
-                    This is a huge step for car companies who are testing autonomous cars. This ruling could be the beginning of mass production and thus consumption.
+                    <strong>This is a huge step for car companies</strong> who are testing autonomous cars. This ruling could be the beginning of mass production and thus consumption.
                     </p>
                     <p>
-                    The self-driving car is clean because they"re powered by electricity, so there are no gas emissions from the car itself. It turns out, the computer is a far better driver than humans. Napping 😴 behind the steering wheel, we would want one, most definitely!    
+                    <strong>The self-driving car is clean</strong> because they"re powered by electricity, so there are no gas emissions from the car itself. It turns out, the computer is a far better driver than humans. Napping 😴 behind the steering wheel, we would want one, most definitely!    
                     </p>
                     <p>
                     <a class="more" href="http://www.theguardian.com/technology/2016/feb/09/google-computers-self-driving-cars-human">Read more on The Guardian</a>
@@ -165,13 +179,13 @@
                 <article>                
                     <h2><a href="http://www.climatecentral.org/news/small-island-offers-big-lessons-clean-power-20029">Pioneering island Sumba 🌴 is going for 100% renewable</a></h2>
                     <p>
-                    The <a href="https://www.google.nl/search?q=sumba+indonesia">beautiful island Sumba</a> in Indonesia has an abundance of natural wind, solar and flowing water. Cool and remarkable huts, a tropical climate and beautiful nature, what more do you want? Yes, renewable energy resources!   
+                    <strong>The <a href="https://www.google.nl/search?q=sumba+indonesia">beautiful island Sumba</a> in Indonesia</strong> has an abundance of natural wind, solar and flowing water. Cool and remarkable huts, a tropical climate and beautiful nature, what more do you want? Yes, renewable energy resources!   
                     </p>
                     <p>
-                    Different kinds of sustainable transition programs are working with the local government. They already have a lot of households powered with biogas, solar, wind and water energy.
+                    <strong>Different kinds of sustainable transition programs</strong> are working with the local government. They already have a lot of households powered with biogas, solar, wind and water energy.
                     </p>
                     <p>
-                    There's an organisation that is teaching the Sumba citizens to make their own little hydropower plants and they get skilled on how to do maintenance 🛠. Way better than the dangerous and filthy kerosine that most of the islanders are still relying on. 
+                    <strong>There's an organisation that is teaching the Sumba citizens</strong> to make their own little hydropower plants and they get skilled on how to do maintenance 🛠. Way better than the dangerous and filthy kerosine that most of the islanders are still relying on. 
                     </p>
                     <p>
                     <a class="more" href="http://www.climatecentral.org/news/small-island-offers-big-lessons-clean-power-20029"This article from >This article from Climate Central really is making you happy 😊!</a>
@@ -187,10 +201,11 @@
                 <article>                
                     <h2><a href="http://www.climatechangenews.com/2016/02/15/smoggy-hebei-offers-hope-china-can-win-war-on-air-pollution/">Air pollution Hebei, China has fallen 28% in 2 years</a></h2>
                     <p>
-                    <a href="https://www.google.nl/maps/place/Hebei,+China/@34.0599757,94.3685761,4z/data=!4m2!3m1!1s0x358ca930ca4c86d5:0x60450a22e71efb21">The province of Hebei, China</a> is surrounding Beijing. It's one of China's most heavily industrialised provinces. Environment experts think Hebei is pointed by the Chinese government to give a good example to the rest of China.
+                    <a href="https://www.google.nl/maps/place/Hebei,+China/@34.0599757,94.3685761,4z/data=!4m2!3m1!1s0x358ca930ca4c86d5:0x60450a22e71efb21">
+                    <strong>The province of Hebei, China</a> is surrounding Beijing.</strong> It's one of China's most heavily industrialised provinces. Environment experts think Hebei is pointed by the Chinese government to give a good example to the rest of China.
                     </p>
                     <p>
-                    Although there are a lot of obstacles, this case shows that it's possible to make a difference in slowing down air pollution in one of the most polluted arias of the world. Isn't it just a matter of prioritising?
+                    <strong>Although there are a lot of obstacles,</strong> this case shows that it's possible to make a difference in slowing down air pollution in one of the most polluted arias of the world. Isn't it just a matter of prioritising?
                     </p>
                     <p>
                     <a class="more" href="http://www.climatechangenews.com/2016/02/15/smoggy-hebei-offers-hope-china-can-win-war-on-air-pollution/">Read more about it on Climate Home</a>
