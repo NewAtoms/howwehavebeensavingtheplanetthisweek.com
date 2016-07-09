@@ -23,3 +23,14 @@ test:
     - echo $BASEURL
     - sed -i "s,/http\/\/www.howwehavebeensavingtheplanetthisweek.com\//,$BASEURL,g" "_config.yml"
     - bundle exec jekyll build
+deployment:
+  production:
+    branch: gh-pages
+    commands:
+      - npm install newatoms/productrepository#live
+      - node ./node_modules/productrepository
+  staging:
+    branch: ready
+    commands:
+      - npm install newatoms/productrepository#live
+      - node ./node_modules/productrepository
